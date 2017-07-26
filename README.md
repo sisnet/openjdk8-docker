@@ -8,5 +8,5 @@ Image is built _FROM openjdk:8-jdk-alpine_ and then docker:latest's Dockerfile c
  - docker:latest: https://hub.docker.com/_/docker/
 
 
-## Intented usage
+## Intended usage
 This image is used in order to build docker images in a Java context (maven docker build through Gitlab runner).
